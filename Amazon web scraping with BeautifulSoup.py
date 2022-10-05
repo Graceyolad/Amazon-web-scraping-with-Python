@@ -88,7 +88,7 @@ with open('amazoniphone14dataset.csv', 'w', newline = '', encoding = 'UTF8') as 
 
 
 #importing and viewing the data as a dataframe
-df = pd.read_csv(r'C:\Users\Grace\amazonphone14dataset.csv')
+df = pd.read_csv(r'C:\Users\Grace\amazoniphone14dataset.csv')
 df
 
 
@@ -151,7 +151,7 @@ while (True):
 # In[ ]:
 
 
-df = pd.read_csv(r'C:\Users\Grace\amazonphone14dataset.csv')
+df = pd.read_csv(r'C:\Users\Grace\amazoniphone14dataset.csv')
 df
 
 
